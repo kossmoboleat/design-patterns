@@ -1,4 +1,4 @@
-package de.timbenke.design_patterns;
+package de.timbenke.design_patterns.strategy;
 
 public class WarriorHealthStrategy implements HealthStrategy {
 

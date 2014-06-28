@@ -1,9 +1,12 @@
-package de.timbenke.design_patterns;
+package de.timbenke.design_patterns.strategy;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import de.timbenke.design_patterns.strategy.HealthStrategy;
+import de.timbenke.design_patterns.strategy.OgreHealthStrategy;
 
 public class OgreHealthStrategyTest {
 		
